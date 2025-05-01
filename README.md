@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there it's Stefan👋
+
+🔭 I’m currently working on a Syssiphus Game with Unity + a Flutter App for University
+
+🌱 I’m currently learning Unity, C#, Flutter, Dart and Git 
 
 <!--
 **ststnadle/ststnadle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
