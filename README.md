@@ -1,6 +1,6 @@
-## Hi there it's Stefan👋
+## Hi there, it's Stefan👋
 
-🔭 I’m currently working on a Syssiphus Game with Unity + a Flutter App for University
+🔭 I’m currently working on my Syssiphus Game with Unity + a Flutter App for University
 
 🌱 I’m currently learning Unity, C#, Flutter, Dart and Git 
 
