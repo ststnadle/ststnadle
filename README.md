@@ -1,21 +1,27 @@
-## Hi there, it's Stefan👋
+## Hi there, I'm Stefan 👋
 
-🔭 I’m currently working on my Sisyphus Game with Unity + a Flutter App for University
+🎓 I'm studying Computer Science at **Hochschule Darmstadt**.
 
-🌱 I’m currently learning Unity, C#, Flutter, Dart and Git 
+🎯 Right now my full focus is on my studies, so I'm not actively working on any projects at the moment.
 
-<!--
-**ststnadle/ststnadle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
 
-Here are some ideas to get you started:
+A few things I've built and put online:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Focus Timer App**: an app to help you stay focused and track your focus time.
+- **Sisyphus Game**: a video game built with Unity and C#.
 
+## 🛠️ Tech
+
+Unity · C# · Flutter · Dart · GitHi there, I'm Stefan 👋
+
+🎓 I'm studying Computer Science at Hochschule Darmstadt.
+
+🎯 Right now my full focus is on my studies, so I'm not actively working on any projects at the moment.
+
+🚀 Projects
+
+A few things I've built and put online:
+
+Focus Timer App: an app to help you stay focused and track your focus time.
+Sisyphus Game: a video game built with Unity and C#.
