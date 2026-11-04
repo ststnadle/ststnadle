@@ -6,7 +6,7 @@
 
 ## 🚀 Projects
 
-A few things I've built and put online:
+A few things I've built:
 
 - **Focus Timer App**: an app to help you stay focused and track your focus time.
 - **Sisyphus Game**: a video game built with Unity and C#.
